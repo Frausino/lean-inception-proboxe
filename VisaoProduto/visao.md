@@ -15,3 +15,12 @@ Outras plataformas tradicionais de redes sociais e ferramentas de comunicação 
 
 ## O nosso produto:
 Faz a integração entre alunos e a instituição, com foco em facilitar o aprendizado, a troca de experiências acadêmicas e a criação de redes profissionais, garantindo uma plataforma específica e segura, alinhada às necessidades educacionais e de crescimento de carreira dos estudantes. 
+
+1. Sim, foi transmitida obejtivamente.
+2. - Foi definido de forma clara.
+   - Não conseguimos indentificar a necessidade/problema do público alvo.
+3. Sim.
+4. Concluimos que sentimos falta da argumentação sobre o diferencial que o app oferece.
+5. Sim
+6. Sim, conseguimos visualizar em produção
+7. Como dissemos anteriormente, sentimos falta da argumentação em relação ao diferencial e valor que gerará ao usuário. Quais as consequências dos benefícios que vocês fornecem?
