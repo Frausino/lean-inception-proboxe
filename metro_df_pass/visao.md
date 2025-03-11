@@ -12,3 +12,5 @@ Diferente de:
 
 O nosso produto:
 ## Inclui soluções baseadas em georeferenciamento, alertas personalizados, solicitação de cartão mobilidade, opções de pagamento diversificado, chatbot, funcionalidades offline, canal direto com SAC e feedback imediato após a compra. 
+
+
