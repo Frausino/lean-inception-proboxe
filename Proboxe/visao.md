@@ -11,7 +11,7 @@ Fornece uma análise detalhada dos golpes, incluindo velocidade, potência, freq
 Além disso, o sistema gera relatórios personalizados para acompanhar a evolução dos atletas ao longo do tempo.
 
 ## Diferente de:
-Métodos tradicionais de avaliação, que são subjetivos e dependem exclusivamente da percepção dos treinadores, o ProBoxe oferece uma abordagem objetiva baseada em dados concretos, reduzindo erros de avaliação e aumentando a eficiência dos treinos.
+Métodos tradicionais de avaliação, que são subjetivos e dependem exclusivamente da percepção dos treinadores.
 
 ## Nosso Produto:
 Oferece uma solução tecnológica inovadora baseada em visão computacional e redes neurais, proporcionando métricas objetivas e insights valiosos para o treinamento de boxe e Muay Thai. 
