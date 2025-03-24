@@ -1,7 +1,16 @@
-Para: Usuários que utilizam o metrô;
-O: Metrô Pass é um app de cadastro, compra de passagem, registro em carteira digital (tickets de passagem), sistema de georeferenciamento, alertas personalizados, solicitar cartão mobilidade e canal direto com SAC;   
-Que: Visa melhorar a experiência dos usuários do metrô DF;
-Diferente de: Uso do app sem a necessidade de estar conectado à internet;
-O nosso produto: Inclui personalização com inteligência artificial, integração por voz, opções de pagamento diversificado, feedback imediato após a compra e chatbot. 
+Para:
+## Usuários que utilizam o metrô;
 
-Correções: Está ótimo! Boa sorte
+O:
+## Metrô Pass é um app de cadastro, compra de passagem e registro em carteira digital (tickets de passagem);
+
+Que:
+## Visa melhorar a experiência dos usuários do metrô DF;
+
+Diferente de:
+## Soluções nacionais e internacionais já existentes (SP Pass, Top, NYC Subway, Lyft, Tokyo Metro Subway Map, etc) que atendem o mesmo segmento, o Metro DF Pass trás melhorias e funcionalidades que não existem no mercado.
+
+O nosso produto:
+## Inclui soluções baseadas em georeferenciamento, alertas personalizados, solicitação de cartão mobilidade, opções de pagamento diversificado, chatbot, funcionalidades offline, canal direto com SAC e feedback imediato após a compra. 
+
+
